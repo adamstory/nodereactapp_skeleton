@@ -1,0 +1,26 @@
+{
+  "name": "w9_weekendpractice",
+  "version": "1.0.0",
+  "description": "## Step 1",
+  "main": "index.js",
+  "engines": {
+    "node": "16.13.1"
+  },
+  "scripts": {
+    "dev": "nodemon ./react-node-app/server/bin/www.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamstory/fsdeploymentpractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamstory/fsdeploymentpractice/issues"
+  },
+  "homepage": "https://github.com/adamstory/fsdeploymentpractice#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
